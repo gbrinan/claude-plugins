@@ -18,6 +18,19 @@ Auth0 security specialist plugin for attack protection, MFA, token security, and
 - Compliance verification (FAPI, GDPR, HIPAA, PCI DSS, ISO 27001)
 - OWASP Top 10 Auth0 implementation patterns
 
+### staged-insight-research
+
+Staged consumer-insight research pipeline (v0.4.0).
+
+**Features:**
+- GOAL → KNOWLEDGE → SEGMENT → QUESTION reverse-design framework
+- 3-phase pipeline: broad survey → extended validation → focus interview
+- Phase-3 interviews in batch mode (persona-respondent) or interactive mode (persona-interviewee, incl. custom non-dataset stakeholder personas)
+- Project-directory persistence (manifest.json) — resume across sessions, hand off between agents
+- Recency-first desk research (web/YouTube, last-12-months priority, verified-URL citations)
+- External-data integration protocol (confirmed/corrected/overturned verdicts, audit trail)
+- Optional: nemotron-personas-korea plugin for 1M synthetic Korean respondents
+
 ---
 
 ## Installation

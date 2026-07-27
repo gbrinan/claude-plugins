@@ -13,6 +13,11 @@
       "name": "moai-security",
       "path": "plugins/moai-security",
       "description": "Auth0 security specialist for attack protection, MFA, token security, and compliance"
+    },
+    {
+      "name": "staged-insight-research",
+      "path": "plugins/staged-insight-research",
+      "description": "Staged consumer-insight research pipeline: GOAL-driven 3-phase design (broad survey, extended validation, focus interview with batch/interactive modes), project-directory persistence via manifest.json, recency-first desk research, and an external-data integration protocol. Pairs with nemotron-personas-korea for synthetic Korean respondents."
     }
   ]
 }
