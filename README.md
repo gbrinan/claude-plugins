@@ -38,7 +38,7 @@ Staged consumer-insight research pipeline (v0.4.0).
 ### Via Claude Code Marketplace
 
 ```
-/plugin marketplace add modu-ai/claude-plugins
+/plugin marketplace add gbrinan/claude-plugins
 ```
 
 ### Manual Installation
